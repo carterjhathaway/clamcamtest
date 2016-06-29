@@ -73,9 +73,15 @@ a.btn {
 a.btn .fa {
   margin-right: 5px;
 }
+<<<<<<< HEAD
 .btn-green,
 a.btn-green {
   background: #4f4f4f;
+=======
+.btn-black,
+a.btn-black {
+  background: #262626;
+>>>>>>> tylerdq/master
   border: 1px solid #000;
   color: #fff !important;
 }
@@ -89,7 +95,11 @@ a.btn-black:active,
 a.btn-black.active,
 .btn-black.hover,
 a.btn-black.hover {
+<<<<<<< HEAD
   background: #4f4f4f;
+=======
+  background: #3D3D3D;
+>>>>>>> tylerdq/master
   color: #fff !important;
   border: 1px solid #000;
 }
@@ -108,6 +118,10 @@ a.btn-black.hover {
 .body-black .btn-black.hover,
 .body-black a.btn-black.hover {
   color: #fff !important;
+<<<<<<< HEAD
+=======
+}
+>>>>>>> tylerdq/master
 .btn-primary,
 a.btn-primary {
   background: #40babd;
