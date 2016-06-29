@@ -73,6 +73,41 @@ a.btn {
 a.btn .fa {
   margin-right: 5px;
 }
+.btn-green,
+a.btn-green {
+  background: #4f4f4f;
+  border: 1px solid #000;
+  color: #fff !important;
+}
+.btn-black:hover,
+a.btn-black:hover,
+.btn-black:focus,
+a.btn-black:focus,
+.btn-black:active,
+a.btn-black:active,
+.btn-black.active,
+a.btn-black.active,
+.btn-black.hover,
+a.btn-black.hover {
+  background: #4f4f4f;
+  color: #fff !important;
+  border: 1px solid #000;
+}
+.body-black .btn-black,
+.body-black a.btn-black {
+  color: #fff !important;
+}
+.body-black .btn-black:hover,
+.body-black a.btn-black:hover,
+.body-black .btn-black:focus,
+.body-black a.btn-black:focus,
+.body-black .btn-black:active,
+.body-black a.btn-black:active,
+.body-black .btn-black.active,
+.body-black a.btn-black.active,
+.body-black .btn-black.hover,
+.body-black a.btn-black.hover {
+  color: #fff !important;
 .btn-primary,
 a.btn-primary {
   background: #40babd;
